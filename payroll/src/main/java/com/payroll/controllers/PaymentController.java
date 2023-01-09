@@ -1,4 +1,4 @@
-package com.payroll.repositories;
+package com.payroll.controllers;
 
 import com.payroll.entities.Payment;
 import com.payroll.servicies.PaymentService;
