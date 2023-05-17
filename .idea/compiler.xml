@@ -7,17 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hr-worker" />
+        <module name="ms.eurekaserver" />
         <module name="payroll" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hr-worker" target="11" />
-      <module name="payroll" target="11" />
+      <module name="eureka-server" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="hr-worker" options="-parameters" />
+      <module name="ms.eurekaserver" options="-parameters" />
       <module name="payroll" options="-parameters" />
     </option>
   </component>

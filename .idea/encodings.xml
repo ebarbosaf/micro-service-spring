@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ms-worker/ms-worker/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-worker/ms-worker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms.eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms.eurekaserver/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/payroll/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/payroll/src/main/resources" charset="UTF-8" />
   </component>
